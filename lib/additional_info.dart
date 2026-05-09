@@ -21,7 +21,7 @@ class AdditionalInfo extends StatelessWidget {
         const SizedBox(height: 8),
         Text(
           value,
-          style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
+          style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
         ),
       ],
     );
