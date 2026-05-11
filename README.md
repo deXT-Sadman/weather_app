@@ -1,17 +1,47 @@
-# weather_app
+# 🌦️ Weather App
 
-A new Flutter project.
+A clean and modern Flutter Weather Application that provides real-time weather information with a beautiful UI and smooth user experience.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🌍 Search weather by city name
+- 🌡️ Real-time temperature updates
+- ☁️ Weather condition display
+- 💨 Wind speed information
+- 💧 Humidity details
+- 📍 Location-based weather
+- 🎨 Clean and responsive UI
+- ⚡ Fast and lightweight performance
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Built With
+
+- Flutter
+- Dart
+- Weather API
+- Material Design
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure you have installed:
+
+- Flutter SDK
+- Dart SDK
+- Android Studio / VS Code
+- Emulator or Physical Device
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/deXT-Sadman/weather_app.git
